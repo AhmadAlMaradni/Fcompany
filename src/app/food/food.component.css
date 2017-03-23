@@ -325,7 +325,6 @@ button.submitbtn:active {
 
 .img{
     background: #253340 url('/assets/img/food.jpg') no-repeat 50% top;
-    position: fixed; 
   top: 0; 
   left: 0; 
   min-width: 100%;
